@@ -1,4 +1,3 @@
 # S.aureus_CRISPR_strains
-CRISPR-positive MRSA isolates from a screen against cas1 and cas2 genes
-Isolates were sequenced at Statens Serum Institut (SSI), Copenhagen, Denmark using Illumina paired-end sequencing assembled using SPAdes.
-The strains are Methicillin-resistant staphylococcus aureus (MRSA) that are isolated from the clinic and nasal swaps.
+All primary S. aureus isolates are recovered from Danish patients who were admitted due to a healthcare-associated infection between 27th of October 2017 and 12th of March 2019. All isolates were typed at Statens Serum Institut as part of the national MRSA surveillance program.
+All isolates were whole-genome sequenced on an Illumina MiSeq with 2 x 251 bp paired-end reads. Isolates were assembled using SKESA or SPAdes.
